@@ -1,0 +1,93 @@
+{
+  "home": {
+    "map": "Map"
+  },
+  "about": {
+    "title": "About",
+    "text": "<p>Multicycles is the technology demo of fluctuo's Data Flow API.</p><p>Fluctuo is the startup specialized in shared mobility. More info on <a href=\"https://fluctuo.com\">fluctuo.com</a>.</p><p>Find out more about the Data Flow API on <a href=\"https://flow.fluctuo.com\">flow.fluctuo.com</a>. This API integrates real-time data from over 200 shared mobility operators around the world.</p><p>fluctuo also developed, City Dive, a historical data dashboard. More info on <a href=\"https://dive.fluctuo.com\">dive.fluctuo.com</a>.</p><p><a href=\"https://www.linkedin.com/company/fluctuo/\">linkedin</a> | <a href=\"https://twitter.com/fluctuo\">twitter</a></p>"
+  },
+  "settings": {
+    "title": "Settings",
+    "lang": "Language",
+    "providers": "Providers",
+    "installApp": "Install App",
+    "account": "Account"
+  },
+  "vehicleType": {
+    "BIKE": "Bike",
+    "SCOOTER": "Scooter",
+    "MOTORSCOOTER": "Motor-scooter",
+    "BIKE_CARGO": "Cargo bike",
+    "CAR_CARGO": "Van",
+    "TANDEM": "Tandem",
+    "CAR": "Car",
+    "STATION": "Station",
+    "VIRTUAL_STATION": "Station",
+    "OTHER": "Vehicle"
+  },
+  "stationVehicleTypes": {
+    "BIKE": "Bike | Bikes",
+    "SCOOTER": "Scooter | Scooters",
+    "MOTORSCOOTER": "Motor-scooter | Motor-scooters",
+    "CAR": "Car | Cars",
+    "OTHER": "Vehicle | Vehicles"
+  },
+  "selectedVehicle": {
+    "vehicle": "vehicle",
+    "docks": "docks",
+    "free_docks": "free dock | free docks",
+    "unlockInTheApp": "Unlock in the app"
+  },
+  "search": {
+    "search": "Search"
+  },
+  "account": {
+    "title": "My Account",
+    "intro": "Combine all your accounts in a single account. Link your accounts to take full advantage of Multicycles. You'll never have to switch from one app to another to find the right vehicle for you again.",
+    "linkedAccount": "Linked account",
+    "needLogin": "Need to login",
+    "login": "Login"
+  },
+  "LinkSubaccountModal": {
+    "title": "Login and link my {provider} account",
+    "next": "Next",
+    "link": "Link",
+    "limeStep1": "To link your Lime account, set your phone number. You ll receive a message with a password. Please use internationnal format.",
+    "limeStep2": "Put the received code number on you phone.",
+    "birdStep1": "To link your Bird account, set your email. You ll receive a message with a token at the bottom.",
+    "birdStep2": "Put the token received by email",
+    "fleedbirdStep": "To link your account, set your email and password.",
+    "phoneStep1": "To link your account, set your phone number. You ll receive a message with a password. Please use internationnal format.",
+    "phoneStep2": "Put the token received by email",
+    "passwordStep": "Put your password to refresh auth"
+  },
+  "ActiveRide": {
+    "riding": "Currently riding ... 🚴🏻‍",
+    "clickToDetail": "See details"
+  },
+  "ActiveRideModal": {
+    "header": "Currently riding ... 🚴🏻‍"
+  },
+  "QrcodeScanner": {
+    "scanTheQRCode": "Scan the QRCode",
+    "notAvailable": "Not yet available 😢",
+    "unlocking": "Unlocking..."
+  },
+  "MissingModal": {
+    "header": "Submit a missing provider",
+    "description": "With hundreds of cities, it's not always easy to be up to date. Thanks to submit a missing provider for this location. We will check it and add the missing provider.",
+    "provider": "Provider :",
+    "submit": "Submit",
+    "Location": "Location"
+  },
+  "cost": {
+    "tripPrice": "Trip price",
+    "unlock": "Unlock",
+    "perDay": "Per Day",
+    "perMinutes": "Per minute | Per {count} minutes",
+    "perHours": "Per hour | Per {count} hours",
+    "perKm": "Per km | Per {count} km",
+    "StartingAt": "Starting at",
+    "vatExcl": "VAT excl."
+  }
+}

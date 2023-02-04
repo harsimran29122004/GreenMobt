@@ -1,0 +1,60 @@
+{
+  "home": {
+    "map": "Carte"
+  },
+  "about": {
+    "title": "À propos",
+    "text": "<p>Multicycles est la démo technologique de l'API Data Flow de fluctuo.</p><p>Fluctuo est la startup spécialisée dans la mobilité partagé. Plus d'info sur <a href=\"https://fluctuo.com\">fluctuo.com</a>.</p><p>Retrouvez les informations sur l'API Data Flow sur <a href=\"https://flow.fluctuo.com\">flow.fluctuo.com</a>. Cette API integre les données temps-réel de plus de 200 opérateurs de mobilité partagé, partout dans le monde.</p><p>fluctuo propose à également developpé City dive, un tableau de bord de données historique. Plus d'info sur <a href=\"https://dive.fluctuo.com\">dive.fluctuo.com</a>.</p><p><a href=\"https://www.linkedin.com/company/fluctuo/\">linkedin</a> | <a href=\"https://twitter.com/fluctuo\">twitter</a></p>"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "lang": "Langue",
+    "providers": "Providers",
+    "installApp": "Installer l'application"
+  },
+  "vehicleType": {
+    "BIKE": "Vélo",
+    "SCOOTER": "Trottinette",
+    "MOTORSCOOTER": "Scooter",
+    "BIKE_CARGO": "Vélo cargo",
+    "CAR_CARGO": "Camionnette",
+    "TANDEM": "Tandem",
+    "CAR": "Voiture",
+    "OTHER": "Véhicule",
+    "STATION": "Station",
+    "VIRTUAL_STATION": "Station"
+  },
+  "stationVehicleTypes": {
+    "BIKE": "Vélo | Vélos",
+    "SCOOTER": "Trottinette | Trottinettes",
+    "MOTORSCOOTER": "Scooter | Scooters",
+    "CAR": "Voiture | Voitures",
+    "OTHER": "Véhicule | Véhicules"
+  },
+  "selectedVehicle": {
+    "vehicle": "véhicule",
+    "docks": "docks",
+    "free_docks": "dock libre | docks libres",
+    "unlockInTheApp": "déverrouiller dans l'app"
+  },
+  "search": {
+    "search": "Recherche"
+  },
+  "MissingModal": {
+    "header": "Soumettre un fournisseur absent",
+    "description": "Avec des centaines de villes, il n'est pas toujours facile d'être à jour. Merci de soumettre un fournisseur manquant pour cet emplacement. Nous vérifierons et ajouterons le fournisseur manquant.",
+    "provider": "Fournisseur :",
+    "submit": "Soumettre",
+    "Location": "Position"
+  },
+  "cost": {
+    "tripPrice": "Trajet",
+    "unlock": "Déblocage",
+    "perDay": "Par jour",
+    "perMinutes": "Par min | Par {count} mins",
+    "perHours": "Par heure | Par {count} heures",
+    "perKm": "Par km | Par {count} km",
+    "StartingAt": "A partir de",
+    "vatExcl": "TVA excl."
+  }
+}

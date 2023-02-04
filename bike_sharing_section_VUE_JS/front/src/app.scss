@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import '~knacss/sass/knacss.scss';
+
+$animationDuration: 0.3s;
+@import '~vue2-animate/src/sass/vue2-animate.scss';
+
+$mainColor: #22961d;
+$iconSize: 40px;
+
+.page {
+  display: flex;
+  flex-direction: column;
+  background-color: $mainColor;
+  color: #ffffff;
+  flex-grow: 1;
+  overflow: auto;
+
+  a {
+    color: #fff;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  .header {
+    height: 77px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    padding: 15px;
+    width: 100%;
+
+    h1 {
+      text-align: center;
+      flex-grow: 1;
+    }
+
+    svg {
+      color: #fff;
+      width: $iconSize;
+      height: $iconSize;
+    }
+  }
+
+  .content {
+    margin: 77px auto 0;
+    padding: 15px;
+    background-color: lighten($mainColor, 8%);
+    width: 100%;
+    flex-grow: 1;
+
+    .inner-content {
+      max-width: 576px;
+      flex: 1;
+      margin: 0 auto;
+    }
+  }
+}

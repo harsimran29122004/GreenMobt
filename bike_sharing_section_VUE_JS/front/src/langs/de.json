@@ -1,0 +1,60 @@
+{
+  "home": {
+    "map": "Karte"
+  },
+  "about": {
+    "title": "Info",
+    "text": "<p>Multicycles is the technology demo of fluctuo's Data Flow API.</p><p>Fluctuo is the startup specialized in shared mobility. More info on <a href=\"https://fluctuo.com\">fluctuo.com</a>.</p><p>Find out more about the Data Flow API on <a href=\"https://flow.fluctuo.com\">flow.fluctuo.com</a>. This API integrates real-time data from over 200 shared mobility operators around the world.</p><p>fluctuo also developed, City Dive, a historical data dashboard. More info on <a href=\"https://dive.fluctuo.com\">dive.fluctuo.com</a>.</p><p><a href=\"https://www.linkedin.com/company/fluctuo/\">linkedin</a> | <a href=\"https://twitter.com/fluctuo\">twitter</a></p>"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "lang": "Sprache",
+    "providers": "Anbieter",
+    "installApp": "App installieren"
+  },
+  "vehicleType": {
+    "BIKE": "Fahrrad",
+    "SCOOTER": "Scooter",
+    "MOTORSCOOTER": "Motorroller",
+    "BIKE_CARGO": "Lastenfahrrad",
+    "CAR_CARGO": "Transporter",
+    "TANDEM": "Tandem",
+    "CAR": "Auto",
+    "OTHER": "Fahrzeug",
+    "STATION": "Radstation",
+    "VIRTUAL_STATION": "Radstation"
+  },
+  "stationVehicleTypes": {
+    "BIKE": "Fahrrad | Fahrräder",
+    "SCOOTER": "Scooter | Scooters",
+    "MOTORSCOOTER": "Motorroller | Motorrollers",
+    "CAR": "Auto | Autos",
+    "OTHER": "Fahrzeug | Fahrzeuge"
+  },
+  "selectedVehicle": {
+    "vehicle": "Fahrzeug",
+    "docks": "Docks",
+    "free_docks": "freie dock | freie Docks",
+    "unlockInTheApp": "In der App öffnen"
+  },
+  "search": {
+    "search": "Adresse suchen"
+  },
+  "MissingModal": {
+    "header": "Einen fehlenden Anbieter einreichen",
+    "description": "Mit Hunderten von Städten ist es nicht immer einfach, auf dem neuesten Stand zu sein. Vielen Dank an einen fehlenden Anbieter für diesen Standort. Wir werden den fehlenden Anbieter prüfen und hinzufügen.",
+    "provider": "Anbieter :",
+    "submit": "Absenden",
+    "Location": "Lage"
+  },
+  "cost": {
+    "tripPrice": "Reisepreis",
+    "unlock": "Entsperren",
+    "perDay": "Pro tag",
+    "perMinutes": "Pro minute | Pro {count} minuten",
+    "perHours": "Pro stunde | Pro {count} stunden",
+    "perKm": "Pro km | Pro {count} kms",
+    "StartingAt": "Beginnend bei",
+    "vatExcl": "TVA excl."
+  }
+}
